@@ -1,0 +1,207 @@
+body{
+	padding-top: 85px;
+	font-family: 'Gothic A1', sans-serif; ;
+}
+header{
+
+	padding: 5px 0;
+  background:#C3B1E1;
+
+}
+
+.cnav{}
+.logo{
+	width: 120px;
+}
+.ntgl:focus { 
+	box-shadow: none;
+}
+.menu{}
+.menu ul li a{
+	padding: 0 25px !important ;
+	color: #000000 !important;
+	line-height: 24px;
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+
+
+/*header end*/
+
+/*banner*/
+.banner{
+
+}
+.car{
+
+}
+.center-car {
+	bottom: 50% !important;
+}
+.in_mag h1{
+	font-size: 50px;
+}
+/*banner end*/
+
+/*service start*/
+.ser_tm{
+   padding: 100px 0;
+}
+.ser_con{}
+.ser_con h1{
+  font-weight: 700;
+	padding: 70px 0 0 0;
+}
+.ser_con p{
+	font-size: 20px;
+	padding: 30px 0 0 0 ;
+}
+.ser_sec{
+}
+.ser_img img {
+	width: 100%;
+}
+.ser_text{
+
+}
+.ser_text P{
+	font-size: 18px;
+	font-weight: 700;
+}
+.ser_img_text p{
+    font font-weight: 700;
+    font-size: 20px;
+}
+
+/*service end*/
+/*team*/
+.team{
+	padding: 50px 0;
+}
+.team_img img{
+	width: 45%;
+ /*recent work*/
+}
+.recent_work{
+	padding: 100px 0 ;
+}
+.rec_img img{
+	width:13% ;
+	padding: 10px;
+}
+
+/*footer*/
+footer{
+	background:#C3B1E1;
+
+}
+.footer_logo img{
+	padding: 10px 0 0 0;
+	width: 20%;
+}
+.footer_add p{
+   padding: 10px 0 0 0;
+}
+/*footer end*/
+
+/*about page start*/
+.about_page{
+	padding: 100px 0;
+}
+
+.para_h1{
+  padding: 80px 0 0 0;
+}
+.para_p{
+	padding: 20px;
+ background-color: #CBC3E3;
+}
+ /*about page end*/
+ /*solution page start*/
+.solution_page{
+	padding: 100px 0 0 0 ;
+}
+.sol_pag_h4{
+	background:#CBC3E3;
+	padding: 30px 0 ;
+}
+.sol_pag_h4 h4{
+	padding: 0 0 0 20px  ;
+  font-size:22px;
+}
+.sol_pag_p p{
+	margin: 0 0 0 0 ;
+	font-size: 18px;
+}	
+ /*solution page end*/
+ /*partner page */
+.partner_pag{
+	margin: 100px 0 0 0
+}
+.partner_pag_text1{
+	
+	background:#CBC3E3
+;
+}
+
+.partner_pag_text1 p{
+	font-size: 20px;
+	margin: 20px;
+    padding: 80px 0 80px 0 ; 
+}
+.partner_pag_img {
+	text-align: center;
+	padding: 30px;
+}
+.partner_pag_img img{
+	width: 40%;
+}
+
+/*optimal*/
+.Optimal_part{
+	padding: 100px 0 ;
+}
+.optimal_part_img{
+	align-items: center;
+	text-align: center;
+}
+.optimal_part_img p{
+	font-size: 16px;
+	line-height: 30px;
+}
+/*partner page end*/
+/*project page start*/
+
+.project_page{
+	padding: 40px 0 0 0;
+}
+.pro_pag_text h1{
+    padding: 0 0 80px 0;
+}
+.project_pag_item{
+
+}
+.project_pag_item img{
+	width: 100%;
+}
+.project_pag_item h5{}
+.project_pag_item p{}
+
+ /*project page end*/
+ /*contact page start*/
+ /*contact page*/
+
+.contact_page{
+	margin: 100px 0 0 0 ;
+}
+.con_pag_text{
+	margin-top: 13px;
+	background: #CBC3E3;
+	padding: 40px 0;
+	
+   text-align: center;
+}
+.con_pag_p{
+	margin: 0 0 0 50px;
+}
